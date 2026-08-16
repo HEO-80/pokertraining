@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 11.png",
   "chart_type": "range_call",
+  "hero_position": "CO",
+  "effective_stack": "25BB",
+  "opp_position": "BB",
+  "extra_action": "3BET",
+  "opp_3bet_size": "6.5 BB",
+  "menu_category": "OPEN RAISE",
   "ranges": {
     "AA": {
       "actions": {

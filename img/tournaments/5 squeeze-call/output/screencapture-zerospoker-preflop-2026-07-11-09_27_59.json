@@ -1,6 +1,12 @@
 {
   "source_image": "screencapture-zerospoker-preflop-2026-07-11-09_27_59.png",
   "chart_type": "range_call",
+  "hero_position": "BB",
+  "effective_stack": "20BB",
+  "opp_position": null,
+  "extra_action": null,
+  "opp_3bet_size": "2 BB",
+  "menu_category": "SQUEEZE / CALL",
   "ranges": {
     "AA": {
       "actions": {

@@ -1,0 +1,890 @@
+{
+  "source_image": "image copy 11.png",
+  "chart_type": "range_call",
+  "ranges": {
+    "AA": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "AKs": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "AQs": {
+      "actions": {
+        "all_in": 0.44,
+        "call": 0.56
+      }
+    },
+    "AJs": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "ATs": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "A9s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "A8s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "A7s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "A6s": {
+      "actions": {
+        "all_in": 0.34,
+        "call": 0.66
+      }
+    },
+    "A5s": {
+      "actions": {
+        "all_in": 0.37,
+        "call": 0.63
+      }
+    },
+    "A4s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "A3s": {
+      "actions": {
+        "all_in": 0.22,
+        "call": 0.78
+      }
+    },
+    "A2s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "AKo": {
+      "actions": {
+        "all_in": 0.84,
+        "call": 0.16
+      }
+    },
+    "KK": {
+      "actions": {
+        "all_in": 0.18,
+        "call": 0.82
+      }
+    },
+    "KQs": {
+      "actions": {
+        "all_in": 0.91,
+        "call": 0.09
+      }
+    },
+    "KJs": {
+      "actions": {
+        "all_in": 0.19,
+        "call": 0.81
+      }
+    },
+    "KTs": {
+      "actions": {
+        "all_in": 0.77,
+        "call": 0.23
+      }
+    },
+    "K9s": {
+      "actions": {
+        "all_in": 0.84,
+        "call": 0.16
+      }
+    },
+    "K8s": {
+      "actions": {
+        "call": 0.17,
+        "marginal_call": 0.83
+      }
+    },
+    "K7s": {
+      "actions": {
+        "call": 0.17,
+        "marginal_call": 0.83
+      }
+    },
+    "K6s": {
+      "actions": {
+        "call": 0.12,
+        "marginal_call": 0.88
+      }
+    },
+    "K5s": {
+      "actions": {
+        "all_in": 0.06,
+        "call": 0.11,
+        "marginal_call": 0.84
+      }
+    },
+    "K4s": {
+      "actions": {
+        "call": 0.27,
+        "marginal_call": 0.73
+      }
+    },
+    "K3s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "K2s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "AQo": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "KQo": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "QQ": {
+      "actions": {
+        "all_in": 0.64,
+        "call": 0.36
+      }
+    },
+    "QJs": {
+      "actions": {
+        "all_in": 0.08,
+        "call": 0.92
+      }
+    },
+    "QTs": {
+      "actions": {
+        "all_in": 0.34,
+        "call": 0.66
+      }
+    },
+    "Q9s": {
+      "actions": {
+        "all_in": 0.37,
+        "call": 0.63
+      }
+    },
+    "Q8s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q7s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q6s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q5s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q4s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "AJo": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "KJo": {
+      "actions": {
+        "call": 0.55,
+        "marginal_call": 0.45
+      }
+    },
+    "QJo": {
+      "actions": {
+        "all_in": 0.44,
+        "call": 0.56
+      }
+    },
+    "JJ": {
+      "actions": {
+        "all_in": 0.23,
+        "call": 0.77
+      }
+    },
+    "JTs": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "J9s": {
+      "actions": {
+        "call": 0.52,
+        "marginal_call": 0.48
+      }
+    },
+    "J8s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "J7s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "ATo": {
+      "actions": {
+        "all_in": 0.83,
+        "call": 0.17
+      }
+    },
+    "KTo": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "QTo": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "JTo": {
+      "actions": {
+        "all_in": 0.48,
+        "call": 0.52
+      }
+    },
+    "TT": {
+      "actions": {
+        "all_in": 0.14,
+        "call": 0.86
+      }
+    },
+    "T9s": {
+      "actions": {
+        "call": 0.29,
+        "marginal_call": 0.71
+      }
+    },
+    "T8s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T7s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A9o": {
+      "actions": {
+        "all_in": 0.43,
+        "call": 0.5,
+        "marginal_call": 0.07
+      }
+    },
+    "K9o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q9o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J9o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T9o": {
+      "actions": {
+        "all_in": 0.5,
+        "call": 0.5
+      }
+    },
+    "99": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "98s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "97s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "96s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "95s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "94s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "93s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "92s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A8o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "K8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "98o": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "88": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "87s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "86s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "85s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "84s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "83s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "82s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A7o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "K7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "97o": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "87o": {
+      "actions": {
+        "call": 0.92,
+        "marginal_call": 0.08
+      }
+    },
+    "77": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "76s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "75s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "74s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "73s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "72s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A6o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "K6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "96o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "86o": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "76o": {
+      "actions": {
+        "call": 0.72,
+        "marginal_call": 0.28
+      }
+    },
+    "66": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "65s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "64s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "63s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "62s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "95o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "85o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "75o": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "65o": {
+      "actions": {
+        "call": 0.55,
+        "marginal_call": 0.45
+      }
+    },
+    "55": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "54s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "53s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "52s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A4o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "K4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "94o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "84o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "74o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "64o": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "54o": {
+      "actions": {
+        "all_in": 0.25,
+        "call": 0.2,
+        "marginal_call": 0.55
+      }
+    },
+    "44": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "43s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "42s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A3o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "K3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "93o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "83o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "73o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "63o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "53o": {
+      "actions": {
+        "all_in": 0.56,
+        "call": 0.44
+      }
+    },
+    "43o": {
+      "actions": {
+        "all_in": 0.5,
+        "marginal_call": 0.5
+      }
+    },
+    "33": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "32s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "92o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "82o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "72o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "62o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "52o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "42o": {
+      "actions": {
+        "all_in": 0.55,
+        "marginal_call": 0.45
+      }
+    },
+    "32o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "22": {
+      "actions": {
+        "fold": 1.0
+      }
+    }
+  }
+}

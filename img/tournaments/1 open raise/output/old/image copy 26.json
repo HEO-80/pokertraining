@@ -1,0 +1,858 @@
+{
+  "source_image": "image copy 26.png",
+  "chart_type": "3bet_call",
+  "ranges": {
+    "AA": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "AKs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "AQs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "AJs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "ATs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "A9s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "A8s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "A7s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "AKo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "KK": {
+      "actions": {
+        "all_in": 0.15,
+        "3bet": 0.85
+      }
+    },
+    "KQs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "KJs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "KTs": {
+      "actions": {
+        "all_in": 0.13,
+        "3bet": 0.87
+      }
+    },
+    "K9s": {
+      "actions": {
+        "all_in": 0.1,
+        "3bet": 0.9
+      }
+    },
+    "K8s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "K7s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "K6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "AQo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "KQo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "QQ": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "QJs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "QTs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "Q9s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "Q8s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "Q7s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "AJo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "KJo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "QJo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "JJ": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "JTs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "J9s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "J8s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "J7s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "ATo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "KTo": {
+      "actions": {
+        "all_in": 0.13,
+        "3bet": 0.87
+      }
+    },
+    "QTo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "JTo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "TT": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "T9s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "T8s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "T7s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T6s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "T5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T4s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "T3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A9o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "K9o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "Q9o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "J9o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "T9o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "99": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "98s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "97s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "96s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "95s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "94s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "93s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "92s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A8o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "K8o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "Q8o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "J8o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "T8o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "98o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "88": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "87s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "86s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "85s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "84s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "83s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "82s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "97o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "87o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "77": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "76s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "75s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "74s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "73s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "72s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K6o": {
+      "actions": {
+        "call": 0.5,
+        "marginal_call": 0.5
+      }
+    },
+    "Q6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "96o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "86o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "76o": {
+      "actions": {
+        "all_in": 0.07,
+        "3bet": 0.93
+      }
+    },
+    "66": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "65s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "64s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "63s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "62s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "95o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "85o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "75o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "65o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "55": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "54s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "53s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "52s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "A4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "94o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "84o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "74o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "64o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "54o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "44": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "43s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "42s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "A3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K3o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T3o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "93o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "83o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "73o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "63o": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "53o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "43o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "33": {
+      "actions": {
+        "all_in": 0.11,
+        "3bet": 0.89
+      }
+    },
+    "32s": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "A2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "92o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "82o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "72o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "62o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "52o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "42o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "32o": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "22": {
+      "actions": {
+        "3bet": 1.0
+      }
+    }
+  }
+}

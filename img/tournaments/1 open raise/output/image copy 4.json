@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 4.png",
   "chart_type": "call_vs_open_push",
+  "hero_position": "BTN",
+  "effective_stack": "25BB",
+  "opp_position": "BB",
+  "extra_action": "ROL",
+  "opp_3bet_size": "25 BB (ALL IN)",
+  "menu_category": "OPEN RAISE",
   "ranges": {
     "AA": {
       "actions": {

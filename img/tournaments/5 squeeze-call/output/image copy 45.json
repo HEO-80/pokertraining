@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 45.png",
   "chart_type": "range_call",
+  "hero_position": "BB",
+  "effective_stack": "15BB",
+  "opp_position": null,
+  "extra_action": null,
+  "opp_3bet_size": "2 BB",
+  "menu_category": "SQUEEZE / CALL",
   "ranges": {
     "AA": {
       "actions": {

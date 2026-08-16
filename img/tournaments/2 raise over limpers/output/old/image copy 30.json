@@ -1,0 +1,925 @@
+{
+  "source_image": "image copy 30.png",
+  "chart_type": "raise_over_limpers",
+  "ranges": {
+    "AA": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "AKs": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "AQs": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "AJs": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "ATs": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "A9s": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "A8s": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "A7s": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "A6s": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "A5s": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "A4s": {
+      "actions": {
+        "rol": 0.33,
+        "check": 0.67
+      }
+    },
+    "A3s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "A2s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "AKo": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "KK": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "KQs": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "KJs": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "KTs": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "K9s": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "K8s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "K7s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "K6s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "K5s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "K4s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "K3s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "K2s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "AQo": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "KQo": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "QQ": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "QJs": {
+      "actions": {
+        "rol": 0.24,
+        "check": 0.76
+      }
+    },
+    "QTs": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q9s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q8s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q7s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q6s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q5s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q4s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q3s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q2s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "AJo": {
+      "actions": {
+        "all_in": 0.13,
+        "rol": 0.87
+      }
+    },
+    "KJo": {
+      "actions": {
+        "rol": 0.65,
+        "check": 0.35
+      }
+    },
+    "QJo": {
+      "actions": {
+        "rol": 0.58,
+        "check": 0.42
+      }
+    },
+    "JJ": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "JTs": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "J9s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "J8s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "J7s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "J6s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "J5s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "J4s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "J3s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "J2s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "ATo": {
+      "actions": {
+        "all_in": 0.47,
+        "rol": 0.53
+      }
+    },
+    "KTo": {
+      "actions": {
+        "rol": 0.37,
+        "check": 0.63
+      }
+    },
+    "QTo": {
+      "actions": {
+        "rol": 0.26,
+        "check": 0.74
+      }
+    },
+    "JTo": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "TT": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "T9s": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "T8s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "T7s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "T6s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "T5s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "T4s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "T3s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "T2s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "A9o": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "K9o": {
+      "actions": {
+        "rol": 0.64,
+        "check": 0.36
+      }
+    },
+    "Q9o": {
+      "actions": {
+        "rol": 0.53,
+        "check": 0.47
+      }
+    },
+    "J9o": {
+      "actions": {
+        "rol": 0.25,
+        "check": 0.75
+      }
+    },
+    "T9o": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "99": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "98s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "97s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "96s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "95s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "94s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "93s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "92s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "A8o": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "K8o": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "Q8o": {
+      "actions": {
+        "rol": 0.51,
+        "check": 0.49
+      }
+    },
+    "J8o": {
+      "actions": {
+        "rol": 0.33,
+        "check": 0.67
+      }
+    },
+    "T8o": {
+      "actions": {
+        "rol": 0.3,
+        "check": 0.7
+      }
+    },
+    "98o": {
+      "actions": {
+        "rol": 0.22,
+        "check": 0.78
+      }
+    },
+    "88": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "87s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "86s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "85s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "84s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "83s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "82s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "A7o": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "K7o": {
+      "actions": {
+        "rol": 0.72,
+        "check": 0.28
+      }
+    },
+    "Q7o": {
+      "actions": {
+        "rol": 0.53,
+        "check": 0.47
+      }
+    },
+    "J7o": {
+      "actions": {
+        "rol": 0.47,
+        "check": 0.53
+      }
+    },
+    "T7o": {
+      "actions": {
+        "rol": 0.38,
+        "check": 0.62
+      }
+    },
+    "97o": {
+      "actions": {
+        "rol": 0.31,
+        "check": 0.69
+      }
+    },
+    "87o": {
+      "actions": {
+        "rol": 0.25,
+        "check": 0.75
+      }
+    },
+    "77": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "76s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "75s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "74s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "73s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "72s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "A6o": {
+      "actions": {
+        "all_in": 0.59,
+        "rol": 0.09,
+        "check": 0.31
+      }
+    },
+    "K6o": {
+      "actions": {
+        "rol": 0.35,
+        "check": 0.65
+      }
+    },
+    "Q6o": {
+      "actions": {
+        "rol": 0.34,
+        "check": 0.66
+      }
+    },
+    "J6o": {
+      "actions": {
+        "rol": 0.36,
+        "check": 0.64
+      }
+    },
+    "T6o": {
+      "actions": {
+        "rol": 0.64,
+        "check": 0.36
+      }
+    },
+    "96o": {
+      "actions": {
+        "rol": 0.51,
+        "check": 0.49
+      }
+    },
+    "86o": {
+      "actions": {
+        "rol": 0.44,
+        "check": 0.56
+      }
+    },
+    "76o": {
+      "actions": {
+        "all_in": 0.4,
+        "rol": 0.07,
+        "check": 0.53
+      }
+    },
+    "66": {
+      "actions": {
+        "rol": 1.0
+      }
+    },
+    "65s": {
+      "actions": {
+        "rol": 0.19,
+        "check": 0.81
+      }
+    },
+    "64s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "63s": {
+      "actions": {
+        "rol": 0.14,
+        "check": 0.86
+      }
+    },
+    "62s": {
+      "actions": {
+        "rol": 0.43,
+        "check": 0.57
+      }
+    },
+    "A5o": {
+      "actions": {
+        "all_in": 0.12,
+        "check": 0.88
+      }
+    },
+    "K5o": {
+      "actions": {
+        "rol": 0.13,
+        "check": 0.87
+      }
+    },
+    "Q5o": {
+      "actions": {
+        "rol": 0.19,
+        "check": 0.81
+      }
+    },
+    "J5o": {
+      "actions": {
+        "rol": 0.24,
+        "check": 0.76
+      }
+    },
+    "T5o": {
+      "actions": {
+        "rol": 0.36,
+        "check": 0.64
+      }
+    },
+    "95o": {
+      "actions": {
+        "rol": 0.75,
+        "check": 0.25
+      }
+    },
+    "85o": {
+      "actions": {
+        "rol": 0.51,
+        "check": 0.49
+      }
+    },
+    "75o": {
+      "actions": {
+        "rol": 0.41,
+        "check": 0.59
+      }
+    },
+    "65o": {
+      "actions": {
+        "rol": 0.36,
+        "check": 0.64
+      }
+    },
+    "55": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "54s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "53s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "52s": {
+      "actions": {
+        "rol": 0.24,
+        "check": 0.76
+      }
+    },
+    "A4o": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "K4o": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q4o": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "J4o": {
+      "actions": {
+        "rol": 0.3,
+        "check": 0.7
+      }
+    },
+    "T4o": {
+      "actions": {
+        "rol": 0.53,
+        "check": 0.47
+      }
+    },
+    "94o": {
+      "actions": {
+        "rol": 0.52,
+        "check": 0.48
+      }
+    },
+    "84o": {
+      "actions": {
+        "rol": 0.68,
+        "check": 0.32
+      }
+    },
+    "74o": {
+      "actions": {
+        "rol": 0.59,
+        "check": 0.41
+      }
+    },
+    "64o": {
+      "actions": {
+        "rol": 0.53,
+        "check": 0.47
+      }
+    },
+    "54o": {
+      "actions": {
+        "rol": 0.22,
+        "check": 0.78
+      }
+    },
+    "44": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "43s": {
+      "actions": {
+        "rol": 0.66,
+        "check": 0.34
+      }
+    },
+    "42s": {
+      "actions": {
+        "rol": 0.24,
+        "check": 0.76
+      }
+    },
+    "A3o": {
+      "actions": {
+        "all_in": 0.5,
+        "check": 0.5
+      }
+    },
+    "K3o": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "Q3o": {
+      "actions": {
+        "rol": 0.22,
+        "check": 0.78
+      }
+    },
+    "J3o": {
+      "actions": {
+        "rol": 0.49,
+        "check": 0.51
+      }
+    },
+    "T3o": {
+      "actions": {
+        "rol": 0.62,
+        "check": 0.38
+      }
+    },
+    "93o": {
+      "actions": {
+        "rol": 0.56,
+        "check": 0.44
+      }
+    },
+    "83o": {
+      "actions": {
+        "rol": 0.44,
+        "check": 0.56
+      }
+    },
+    "73o": {
+      "actions": {
+        "rol": 0.55,
+        "check": 0.45
+      }
+    },
+    "63o": {
+      "actions": {
+        "rol": 0.44,
+        "check": 0.56
+      }
+    },
+    "53o": {
+      "actions": {
+        "rol": 0.19,
+        "check": 0.81
+      }
+    },
+    "43o": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "33": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "32s": {
+      "actions": {
+        "check": 1.0
+      }
+    },
+    "A2o": {
+      "actions": {
+        "all_in": 1.0
+      }
+    },
+    "K2o": {
+      "actions": {
+        "all_in": 0.58,
+        "check": 0.42
+      }
+    },
+    "Q2o": {
+      "actions": {
+        "all_in": 0.28,
+        "rol": 0.31,
+        "check": 0.41
+      }
+    },
+    "J2o": {
+      "actions": {
+        "rol": 0.61,
+        "check": 0.39
+      }
+    },
+    "T2o": {
+      "actions": {
+        "rol": 0.64,
+        "check": 0.36
+      }
+    },
+    "92o": {
+      "actions": {
+        "rol": 0.46,
+        "check": 0.54
+      }
+    },
+    "82o": {
+      "actions": {
+        "rol": 0.53,
+        "check": 0.47
+      }
+    },
+    "72o": {
+      "actions": {
+        "rol": 0.43,
+        "check": 0.57
+      }
+    },
+    "62o": {
+      "actions": {
+        "rol": 0.22,
+        "check": 0.78
+      }
+    },
+    "52o": {
+      "actions": {
+        "rol": 0.25,
+        "check": 0.75
+      }
+    },
+    "42o": {
+      "actions": {
+        "rol": 0.16,
+        "check": 0.84
+      }
+    },
+    "32o": {
+      "actions": {
+        "rol": 0.24,
+        "check": 0.76
+      }
+    },
+    "22": {
+      "actions": {
+        "all_in": 1.0
+      }
+    }
+  }
+}

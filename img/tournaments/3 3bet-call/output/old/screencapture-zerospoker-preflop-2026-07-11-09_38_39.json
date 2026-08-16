@@ -1,0 +1,883 @@
+{
+  "source_image": "screencapture-zerospoker-preflop-2026-07-11-09_38_39.png",
+  "chart_type": "3bet_call",
+  "ranges": {
+    "AA": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "AKs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "AQs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "AJs": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "ATs": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "A9s": {
+      "actions": {
+        "3bet": 0.56,
+        "call": 0.44
+      }
+    },
+    "A8s": {
+      "actions": {
+        "3bet": 0.11,
+        "call": 0.89
+      }
+    },
+    "A7s": {
+      "actions": {
+        "3bet": 0.19,
+        "call": 0.81
+      }
+    },
+    "A6s": {
+      "actions": {
+        "3bet": 0.14,
+        "call": 0.86
+      }
+    },
+    "A5s": {
+      "actions": {
+        "3bet": 0.11,
+        "call": 0.89
+      }
+    },
+    "A4s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "A3s": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "A2s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "AKo": {
+      "actions": {
+        "all_in": 0.42,
+        "3bet": 0.58
+      }
+    },
+    "KK": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "KQs": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "KJs": {
+      "actions": {
+        "all_in": 0.2,
+        "call": 0.8
+      }
+    },
+    "KTs": {
+      "actions": {
+        "3bet": 0.46,
+        "call": 0.54
+      }
+    },
+    "K9s": {
+      "actions": {
+        "3bet": 0.7,
+        "call": 0.3
+      }
+    },
+    "K8s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "K7s": {
+      "actions": {
+        "3bet": 0.24,
+        "marginal_call": 0.76
+      }
+    },
+    "K6s": {
+      "actions": {
+        "3bet": 0.08,
+        "marginal_call": 0.92
+      }
+    },
+    "K5s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "K4s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "K3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "AQo": {
+      "actions": {
+        "3bet": 0.74,
+        "call": 0.26
+      }
+    },
+    "KQo": {
+      "actions": {
+        "3bet": 0.58,
+        "call": 0.42
+      }
+    },
+    "QQ": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "QJs": {
+      "actions": {
+        "all_in": 0.63,
+        "call": 0.37
+      }
+    },
+    "QTs": {
+      "actions": {
+        "3bet": 0.64,
+        "call": 0.36
+      }
+    },
+    "Q9s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q8s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q7s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "Q6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "AJo": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "KJo": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "QJo": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "JJ": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "JTs": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "J9s": {
+      "actions": {
+        "3bet": 0.27,
+        "marginal_call": 0.73
+      }
+    },
+    "J8s": {
+      "actions": {
+        "3bet": 0.27,
+        "marginal_call": 0.73
+      }
+    },
+    "J7s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "ATo": {
+      "actions": {
+        "3bet": 0.46,
+        "call": 0.54
+      }
+    },
+    "KTo": {
+      "actions": {
+        "3bet": 0.51,
+        "marginal_call": 0.49
+      }
+    },
+    "QTo": {
+      "actions": {
+        "all_in": 0.1,
+        "marginal_call": 0.9
+      }
+    },
+    "JTo": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "TT": {
+      "actions": {
+        "3bet": 1.0
+      }
+    },
+    "T9s": {
+      "actions": {
+        "3bet": 0.47,
+        "call": 0.53
+      }
+    },
+    "T8s": {
+      "actions": {
+        "3bet": 0.16,
+        "marginal_call": 0.84
+      }
+    },
+    "T7s": {
+      "actions": {
+        "3bet": 0.13,
+        "marginal_call": 0.87
+      }
+    },
+    "T6s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T5s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T4s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T3s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T2s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A9o": {
+      "actions": {
+        "3bet": 0.43,
+        "marginal_call": 0.57
+      }
+    },
+    "K9o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q9o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J9o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T9o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "99": {
+      "actions": {
+        "all_in": 0.31,
+        "3bet": 0.69
+      }
+    },
+    "98s": {
+      "actions": {
+        "3bet": 0.31,
+        "marginal_call": 0.69
+      }
+    },
+    "97s": {
+      "actions": {
+        "3bet": 0.11,
+        "marginal_call": 0.89
+      }
+    },
+    "96s": {
+      "actions": {
+        "all_in": 0.18,
+        "marginal_call": 0.82
+      }
+    },
+    "95s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "94s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "93s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "92s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T8o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "98o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "88": {
+      "actions": {
+        "3bet": 0.41,
+        "call": 0.59
+      }
+    },
+    "87s": {
+      "actions": {
+        "3bet": 0.32,
+        "marginal_call": 0.68
+      }
+    },
+    "86s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "85s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "84s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "83s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "82s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T7o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "97o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "87o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "77": {
+      "actions": {
+        "3bet": 0.08,
+        "call": 0.92
+      }
+    },
+    "76s": {
+      "actions": {
+        "3bet": 0.16,
+        "marginal_call": 0.84
+      }
+    },
+    "75s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "74s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "73s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "72s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T6o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "96o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "86o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "76o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "66": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "65s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "64s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "63s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "62s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T5o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "95o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "85o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "75o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "65o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "55": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "54s": {
+      "actions": {
+        "marginal_call": 1.0
+      }
+    },
+    "53s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "52s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T4o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "94o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "84o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "74o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "64o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "54o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "44": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "43s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "42s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T3o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "93o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "83o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "73o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "63o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "53o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "43o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "33": {
+      "actions": {
+        "call": 1.0
+      }
+    },
+    "32s": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "A2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "K2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "Q2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "J2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "T2o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "92o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "82o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "72o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "62o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "52o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "42o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "32o": {
+      "actions": {
+        "fold": 1.0
+      }
+    },
+    "22": {
+      "actions": {
+        "call": 1.0
+      }
+    }
+  }
+}

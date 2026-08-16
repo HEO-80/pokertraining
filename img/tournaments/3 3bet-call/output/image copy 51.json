@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 51.png",
   "chart_type": "range_call",
+  "hero_position": "BTN",
+  "effective_stack": "40BB",
+  "opp_position": "CO",
+  "extra_action": null,
+  "opp_3bet_size": "2 BB",
+  "menu_category": "3BET / CALL",
   "ranges": {
     "AA": {
       "actions": {

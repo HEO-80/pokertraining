@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 27.png",
   "chart_type": "open_raise",
+  "hero_position": "MP1",
+  "effective_stack": "40BB",
+  "opp_position": null,
+  "extra_action": null,
+  "opp_3bet_size": null,
+  "menu_category": "OPEN RAISE",
   "ranges": {
     "AA": {
       "actions": {

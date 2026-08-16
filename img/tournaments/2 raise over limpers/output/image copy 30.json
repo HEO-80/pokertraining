@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 30.png",
   "chart_type": "raise_over_limpers",
+  "hero_position": "BB",
+  "effective_stack": "25BB",
+  "opp_position": null,
+  "extra_action": null,
+  "opp_3bet_size": "1BB",
+  "menu_category": "RAISE OVER LIMPERS",
   "ranges": {
     "AA": {
       "actions": {

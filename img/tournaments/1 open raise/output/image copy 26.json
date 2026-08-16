@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 26.png",
   "chart_type": "3bet_call",
+  "hero_position": "MP2",
+  "effective_stack": "40BB",
+  "opp_position": "CO",
+  "extra_action": "COLD4BET",
+  "opp_3bet_size": "40 BB (ALL IN)",
+  "menu_category": "OPEN RAISE",
   "ranges": {
     "AA": {
       "actions": {

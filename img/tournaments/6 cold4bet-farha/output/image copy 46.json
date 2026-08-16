@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 46.png",
   "chart_type": "range_call",
+  "hero_position": "BB",
+  "effective_stack": "40BB",
+  "opp_position": null,
+  "extra_action": null,
+  "opp_3bet_size": "7 BB",
+  "menu_category": "COLD4BET / FARHA",
   "ranges": {
     "AA": {
       "actions": {

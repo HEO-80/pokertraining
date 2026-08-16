@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 19.png",
   "chart_type": "call_vs_open_push",
+  "hero_position": "HJ",
+  "effective_stack": "20BB",
+  "opp_position": null,
+  "extra_action": "SQUEEZE",
+  "opp_3bet_size": "20 BB (ALL IN)",
+  "menu_category": "OPEN RAISE",
   "ranges": {
     "AA": {
       "actions": {

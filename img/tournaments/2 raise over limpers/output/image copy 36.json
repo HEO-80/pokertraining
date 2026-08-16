@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 36.png",
   "chart_type": "call_vs_open_push",
+  "hero_position": "BB",
+  "effective_stack": "17.5BB",
+  "opp_position": null,
+  "extra_action": "LIMP RAISE",
+  "opp_3bet_size": null,
+  "menu_category": "RAISE OVER LIMPERS",
   "ranges": {
     "AA": {
       "actions": {

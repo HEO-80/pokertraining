@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 15.png",
   "chart_type": "open_raise",
+  "hero_position": "HJ",
+  "effective_stack": "25BB",
+  "opp_position": null,
+  "extra_action": null,
+  "opp_3bet_size": null,
+  "menu_category": "OPEN RAISE",
   "ranges": {
     "AA": {
       "actions": {

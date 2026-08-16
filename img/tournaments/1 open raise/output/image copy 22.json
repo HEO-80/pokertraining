@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 22.png",
   "chart_type": "call_vs_open_push",
+  "hero_position": "MP2",
+  "effective_stack": "17.5BB",
+  "opp_position": "BB",
+  "extra_action": "ROL",
+  "opp_3bet_size": "17.5 BB (ALL IN)",
+  "menu_category": "OPEN RAISE",
   "ranges": {
     "AA": {
       "actions": {

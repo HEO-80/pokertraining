@@ -1,6 +1,12 @@
 {
   "source_image": "screencapture-zerospoker-preflop-2026-07-11-09_30_16.png",
   "chart_type": "call_vs_open_push",
+  "hero_position": "BB",
+  "effective_stack": "15BB",
+  "opp_position": "MP1",
+  "extra_action": null,
+  "opp_3bet_size": "15 BB (ALL IN)",
+  "menu_category": "CALL VS OPEN-PUSH",
   "ranges": {
     "AA": {
       "actions": {

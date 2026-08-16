@@ -1,6 +1,12 @@
 {
   "source_image": "image copy 40.png",
   "chart_type": "3bet_call",
+  "hero_position": "BB",
+  "effective_stack": "40BB",
+  "opp_position": "BTN",
+  "extra_action": null,
+  "opp_3bet_size": "2 BB",
+  "menu_category": "3BET / CALL",
   "ranges": {
     "AA": {
       "actions": {
